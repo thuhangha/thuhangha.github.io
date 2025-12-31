@@ -24,13 +24,13 @@ repository               : "thuhangha/thuhangha.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Thu Hang Ha"
+  pronouns         : "she/her"  
+  bio              : "Energy & Environmental Economics | Data Analysis | Sustainability Modeling"
+  location         : "Hanoi, Vietnam"
+  employer         : "Capital Packaging JSC"
+  uri              : "https://thuhangha.github.io"
+  email            : "thuhang.ha.hust@gmmail.com" 
 
   # Academic websites
   academia         : # URL
