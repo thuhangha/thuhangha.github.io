@@ -2,13 +2,17 @@
 title: "Potential Model for GHG Emissions Estimation in Vietnam’s Cement Sector Using the LEAP Model"
 collection: publications
 category: conferences
-permalink: /publication/leap-cement-vietnam
-venue: "2nd Asia Meeting on Environment and Electrical Engineering (EEEAM 2025)"
-year: 2025
+permalink: /publication/2025-eee-am-cement-leap
 authors: "Ha Thu Hang, Nguyen Hoang Lan, Nguyen Tra My, Ha Xuan Nam"
-role: "First author"
-status: "Accepted"
+venue: "2nd Asia Meeting on Environment and Electrical Engineering (EEEAM 2025)"
+date: 2025-11
+paperurl: ""
+note: "Accepted and presented at EEEAM 2025; proceedings forthcoming."
+citation: "Ha Thu Hang, Nguyen Hoang Lan, Nguyen Tra My, Ha Xuan Nam (2025). Potential Model for GHG Emissions Estimation in Vietnam’s Cement Sector Using the LEAP Model. EEEAM 2025 (accepted and presented)."
+abstract: >
+  This paper develops a sector-level model for estimating greenhouse gas (GHG) emissions in Vietnam’s cement industry using the LEAP
+  (Long-range Energy Alternatives Planning) framework. The study integrates production data, energy intensity, fuel structure,
+  and emission factors to simulate baseline and mitigation scenarios aligned with national decarbonization targets.
+  The results highlight the significant mitigation potential from technological upgrading and energy efficiency improvements,
+  providing quantitative evidence to support low-carbon transition strategies in one of Vietnam’s most emission-intensive industries.
 ---
-
-**Abstract**  
-This study develops a national-level greenhouse gas (GHG) emission model for Vietnam’s cement industry using the Long-range Energy Alternatives Planning (LEAP) system. Two scenarios are evaluated: a Business-as-Usual (BAU) scenario and a Mitigation scenario aligned with Vietnam’s updated Nationally Determined Contribution (NDC) and sectoral technical roadmaps. Results show that while emissions and energy costs increase steadily under BAU, the Mitigation scenario achieves significant emission reductions after 2035 through measures such as reduced clinker ratios, increased use of alternative fuels, and energy efficiency improvements. The findings demonstrate LEAP’s applicability as a policy-support tool for emission scenario analysis in energy-intensive industries in developing countries, providing quantitative evidence to support industrial decarbonization planning in Vietnam.
