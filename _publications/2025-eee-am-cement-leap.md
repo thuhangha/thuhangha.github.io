@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-eee-am-cement-leap
 authors: "Ha Thu Hang, Nguyen Hoang Lan, Nguyen Tra My, Ha Xuan Nam"
 venue: "2nd Asia Meeting on Environment and Electrical Engineering (EEEAM 2025)"
-date: 2025-11
+date: 2025-11-01
 paperurl: ""
 note: "Accepted and presented at EEEAM 2025; proceedings forthcoming."
 citation: "Ha Thu Hang, Nguyen Hoang Lan, Nguyen Tra My, Ha Xuan Nam (2025). Potential Model for GHG Emissions Estimation in Vietnam’s Cement Sector Using the LEAP Model. EEEAM 2025 (accepted and presented)."
