@@ -5,11 +5,11 @@ category: conferences
 permalink: /publication/2024-icech-ai-load-forecasting
 authors: "Nguyen Hoang Lan, Nguyen Thi Huyen Trang, Ha Thu Hang, Toan Vu Le"
 venue: "ICECH 2024 – Sustainable Strategies in the Data-Driven Economy"
-date: 2024-01-01
+date: 2024-02-17   # <-- dùng đúng ngày index trong PDF
 paperurl: ""
 citation: "Nguyen Hoang Lan, Nguyen Thi Huyen Trang, Ha Thu Hang, Toan Vu Le (2024). Basic AI Models for Load Forecasting: A Bibliometric Analysis Approach from Scopus. ICECH 2024."
 abstract: >
-  This paper presents a bibliometric analysis of fundamental artificial intelligence models applied to electricity load forecasting research.
+  This paper presents a bibliometric analysis of fundamental artificial intelligence models applied to electricity load forecasting.
   Based on publications indexed in the Scopus database, the study examines the evolution of research output, dominant AI techniques,
   and collaboration networks within the field. The analysis focuses on commonly used baseline models such as artificial neural networks,
   support vector machines, and regression-based approaches, providing insights into their historical development and application contexts.
