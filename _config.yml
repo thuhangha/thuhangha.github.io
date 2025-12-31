@@ -43,12 +43,11 @@ author:
   
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  journals:
-    title: 'Journal Articles'
+  #journals:
+  #title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
-  working_papers:
-    title: 'Working Papers / Under Review'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
