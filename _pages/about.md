@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Thu Hang Ha, an early-career researcher from Vietnam with an interdisciplinary background in energy economics, sustainability analysis, and data-driven decision-making. My academic training bridges economic reasoning with quantitative modeling to understand how complex energy and industrial systems can be designed, evaluated, and improved in practice.
+I am Thu Hang Ha (Hannah Ha), an early-career researcher from Vietnam with an interdisciplinary background in energy economics, sustainability analysis, and data-driven decision-making. My academic training bridges economic reasoning with quantitative modeling to understand how complex energy and industrial systems can be designed, evaluated, and improved in practice.
 
 My research interests lie at the intersection of energy systems, environmental sustainability, and industrial operations, with a particular focus on how analytical and modeling approaches can support evidence-based decisions at both policy and operational levels. I am especially interested in sustainability challenges faced by emerging economies, where rapid economic growth, energy demand, and climate commitments must be addressed simultaneously.
 
