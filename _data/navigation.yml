@@ -11,14 +11,14 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "CV"
-    url: /cv/
-    
   - title: "Projects"
     url: /projects/
 
-  - title: "Leadership"
+  - title: "Leadership & Service"
     url: /leadership/
+
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
