@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am Thu Hang Ha, an early-career researcher with an interdisciplinary background in energy economics, sustainability analysis, and data-driven decision-making. My academic interests lie at the intersection of energy systems, environmental sustainability, and industrial operations, with a particular focus on how complex systems can be analyzed and optimized to support informed, evidence-based decisions.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research journey began with macro-level modeling of energy use and greenhouse gas emissions, where I worked with sectoral and system-wide frameworks to evaluate decarbonization pathways and sustainability policies. Through these experiences, I developed a strong interest in understanding not only what policy targets aim to achieve, but how they can be translated into feasible actions within real-world constraints.
+
+This motivation gradually led me toward applied, decision-oriented research. I have worked on techno-economic analyses of renewable energy systems, energy storage integration, and emission mitigation strategies at the industrial and facility levels, combining quantitative modeling tools with empirical data. Across my projects, I aim to bridge macro-level sustainability objectives with micro-level operational decision-making, ensuring that analytical results remain both rigorous and implementable.
+
+A recurring context in my work is Vietnam, an emerging economy facing rapid industrialization alongside ambitious climate commitments. Drawing from this background, I am particularly interested in sustainability challenges in developing and transitional economies, where policy ambitions, data limitations, and operational realities often intersect. While my research perspective is globally oriented, I view Vietnam as an important empirical and conceptual reference point for studying energy transition and sustainable development.
+
+Ultimately, my academic goal is to pursue advanced training that allows me to integrate systems thinking, quantitative analysis, and applied research methods, contributing to sustainability solutions with tangible societal and environmental impact. This portfolio presents selected research outputs, publications, and projects that reflect my evolving interests and long-term commitment to impact-driven academic work.
 
 A data-driven personal website
 ======
