@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## Overview
-My projects span both academic research and independent applied work, with a shared focus on translating analytical and modeling approaches into decision-relevant insights for energy and sustainability challenges—particularly in emerging economies such as Vietnam.
+My projects span both academic research and independent applied work, with a shared focus on translating analytical and modeling approaches into decision-relevant insights for energy and sustainability challenges - particularly in emerging economies such as Vietnam.
 
 ---
 
@@ -22,7 +22,6 @@ This project develops a bottom-up, LEAP-based system model to support long-term 
 The study applies IPCC-consistent emission accounting methods and scenario analysis to assess the impacts of technology transition and energy-efficiency improvements on sectoral emissions. The results provide policy-relevant insights for mitigation planning and system-level decision support.
 
 **Outputs & recognition:** Accepted for presentation at **EEEAM 2025 (IEEE-affiliated)**; awarded **Best Thesis (9.8/10)** for methodological rigor and scenario design.  
-**Related publication:** *(link to your publication page if you have it)*
 
 ---
 
@@ -54,10 +53,7 @@ This project examines Vietnam’s long-term electricity demand trajectories to s
 ### PV–BESS Optimization for Distributed Energy Systems  
 **Methods:** HOMER Pro; scenario-based sizing & optimization; LCOE comparison  
 **Outcome:** Decision-support insights for system design and investment comparison.  
-**Link:** [PV–BESS Optimization Project](https://www.linkedin.com/in/hhaang215/)
-
-✅ Replace link below with your real link:
-[Open project](https://www.linkedin.com/posts/hhaang215_cleanenergy-microgrid-solarenergy-activity-7322460460585230337-J53z/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD8rG-4B1C0yi0PerVvmnhkqshVTnGiUAZQ)
+**Link:** [PV–BESS Optimization Project]([https://www.linkedin.com/in/hhaang215/](https://www.linkedin.com/posts/hhaang215_cleanenergy-microgrid-solarenergy-activity-7322460460585230337-J53z/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD8rG-4B1C0yi0PerVvmnhkqshVTnGiUAZQ))
 
 ---
 
