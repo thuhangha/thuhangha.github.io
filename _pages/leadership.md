@@ -60,4 +60,10 @@ My contributions to student leadership and service have been formally recognized
 
 Selected moments from leadership activities, academic events, and community service initiatives are documented below to illustrate the scope and collaborative nature of my involvement.
 
-<!-- Image gallery to be added -->
+<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:12px; margin: 1rem 0;">
+  <img src="/images/leadership1.jpg" alt="Leadership photo 1" style="width:100%; border-radius:12px;">
+  <img src="/images/leadership2.jpg" alt="Leadership photo 2" style="width:100%; border-radius:12px;">
+  <img src="/images/leadership3.jpg" alt="Leadership photo 3" style="width:100%; border-radius:12px;">
+  <img src="/images/leadership4.jpg" alt="Leadership photo 4" style="width:100%; border-radius:12px;">
+  <img src="/images/leadership5.jpg" alt="Leadership photo 5" style="width:100%; border-radius:12px;">
+</div>
