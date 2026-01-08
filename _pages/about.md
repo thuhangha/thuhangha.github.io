@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Thu Hang Ha, an early-career researcher from Vietnam with an interdisciplinary background in energy economics, sustainability analysis, and data-driven decision-making.
+I am Thu Hang Ha (Hannah Ha), an early-career researcher from Vietnam with an interdisciplinary background in energy economics, sustainability analysis, and data-driven decision-making.
 
 
 Research Orientation
